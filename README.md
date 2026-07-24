@@ -1,2 +1,2 @@
 # Info
-Practice files for the Udemy "Udemy Microsoft Excel - Excel from Beginner to Advanced" video course.
+Practice files for the Udemy "Master Microsoft Word Beginner to Advanced" video course.
