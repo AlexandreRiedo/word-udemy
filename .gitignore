@@ -1,0 +1,55 @@
+# =========================
+# Excel Temporary / Lock Files
+# =========================
+# Prevents Git from tracking the hidden lock files Excel creates when a workbook is open
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+~$*.xltx
+
+# Excel Backup Files
+*.xlk
+
+# =========================
+# Word Temporary / Lock Files
+# =========================
+# Prevents Git from tracking the hidden lock files Word creates when a document is open
+~$*.doc
+~$*.docx
+~$*.docm
+~$*.dotx
+
+# Word Backup Files
+*.wbk
+
+# =========================
+# PowerPoint Temporary / Lock Files
+# =========================
+~$*.ppt
+~$*.pptx
+~$*.pptm
+~$*.potx
+
+# =========================
+# Office AutoRecover / Save Files
+# =========================
+*.tmp
+*.asd
+
+# =========================
+# OneDrive / SharePoint Sync Files
+# =========================
+*.OneDrive
+.tmp.drivedownload
+desktop.ini
+
+# =========================
+# Windows OS Files
+# =========================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+Desktop.ini
